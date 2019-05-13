@@ -1,9 +1,3 @@
----
-title: Qualification seminar, ITU 2019
-layout: default
-permalink: index.html
----
-
 # Qualification seminar content
 
 This page contains the seminar schedule, material, assignments, test
