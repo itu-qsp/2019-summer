@@ -30,12 +30,12 @@ The first Monday (1/7) tea, coffee, and croissants will be served from 8:30 to 9
 | 8/7/2019 | 9:00 - 12:00 | Aud 1  | 12:30 - 15:00 | 2A14-16 | 4: Solving actual problems |
 | 10/7/2019 | 9:00 - 12:00 | Aud 1  | 12:30 - 15:00 | 2A14-16 | 5: Working with files and objects|
 | 12/7/2019 | 9:00 - 12:00 | Aud 1  | 12:30 - 15:00 | 2A14-16 | 6: Working with data |
-| 15/7/2019 | 9:00 - 12:00 | Aud 1 | 12:30 - 15:00 | 2A14-16 | 7: Algorithms and runtimes |
-| 17/7/2019 | 9:00 - 12:00 | Aud 1 | 12:30 - 15:00 | 2A14-16 | 8: Abstract data types |
-| 19/7/2019 | 9:00 - 12:00 | Aud 1 | 12:30 - 15:00 |  2A14-16 | 9: Python in your future studies |
-| 22/7/2019 | - | - | 9:00 - 16:00 | 2A14-16 | 10: Project 1/3 |
-| 24/7/2019 | - | - | 9:00 - 16:00 | 2A14-16 | 11: Project 2/3 |
-| 26/7/2019 | - | - | 9:00 - 16:00 | 2A14-16 | 12: Project 3/3 |
+| 15/7/2019 | 9:00 - 12:00 | Aud 1 | 12:30 - 15:00 | 2A14-16 | 7: Algorithms |
+| 17/7/2019 | 9:00 - 12:00 | Aud 1 | 12:30 - 15:00 | 2A14-16 | 8: Algorithms and runtimes |
+| 19/7/2019 | 9:00 - 12:00 | Aud 1 | 12:30 - 15:00 | 2A14-16 | 9: Abstract data types |
+| 22/7/2019 | 9:00 - 12:00 | Aud 1 | 12:30 - 15:00 | 2A14-16 | 10: Python in your future studies |
+| 24/7/2019 | - | - | 9:00 - 16:00 | 2A14-16 | 11: Project 1/2 |
+| 26/7/2019 | - | - | 9:00 - 16:00 | 2A14-16 | 12: Project 2/2 |
 
 The three *project* sessions are meant for you to develop your own modern code
 project in Python, but also to familiarise yourself with Python and train for
@@ -54,9 +54,9 @@ in at least one of the books.
 | 8/7/2019 | Solving actual problems | Chapter 3 | Chapter 7 and 8 | - |
 | 10/7/2019 | Working with files and objects | Chapter 9 and 12 | Chapter 9 | - |
 | 12/7/2019 | Working with data | Chapter 11 and 15 | - | - |
-| 15/7/2019 | Algorithms and runtimes | - | - | Chapter 2 |
-| 17/7/2019 | Abstract data types | - | - | Chapter 3 & 5 |
-| 19/7/2019 | Python in your future studies | - | - | - |
+| 15/7/2019 & 17/7/2019 | Algorithms and runtimes | - | - | Chapter 2 |
+| 19/7/2019 | Abstract data types | - | - | Chapter 3 & 5 |
+| 22/7/2019 | Python in your future studies | - | - | - |
 
 ### Assignments
 Please note that the assignments are **not** mandatory.
@@ -77,8 +77,9 @@ Hand-in should be done on LearnIT.
 | 11/7 23:59 | 5: Files and objects |
 | 14/7 23:59 | 6: Testing and data analysis |
 | 16/7 23:59 | 7: Searching and sorting |
-| 18/7 23:59 | 8: Abstract data structures |
-| 21/7 23:59 | 9: Icecream simulation |
+| 18/7 23:59 | 8: Runtime analysis |
+| 21/7 23:59 | 9: Abstract data structures |
+| 23/7 23:59 | 10: Icecream simulation |
 
 ## Lecture material
 Lecture notes and materials will be published after each session here:
@@ -119,7 +120,7 @@ You **will need to pass the test in order to fully enroll**. But fear not: the g
 to get each and everyone one of you through this seminar.
 
 The test will take place on the 2nd of August, and a second test will take place on the 16th of August.
-Further information will be annonuced later.
+Further information will be announced later.
 
 ## Learning outcomes
 Please read this section carefully.
