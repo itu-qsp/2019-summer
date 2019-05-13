@@ -1,4 +1,4 @@
-![](logo.png)
+![](images/logo.png)
 
 # Qualification seminar content
 
@@ -22,7 +22,7 @@ The first Monday (1/7) tea, coffee, and croissants will be served from 8:30 to 9
 
 **Note**: While the times are locked, the topics are subject to change.
 
-| Date      | Lecture       | Place | Workshop      | Place | Topic  
+| Date      | Lecture       | Place | Workshop      | Place | Topic
 |---------- | ------------- | ----- | ------------- | ----- | -------------------------- |
 | 1/7/2019  | 09:00 - 12:00 | Aud 1 | 12:30 - 15:00 | 2A14-16 | 1: Meet your (other) computer! |
 | 3/7/2019 | 9:00 - 12:00 | Aud 1  | 12:30 - 15:00 | 2A14-16 | 2: Learning Python |
@@ -43,7 +43,7 @@ the coming test.
 
 ### Reading plan
 The following table maps the lectures to book contents.
-Not that *we expect that you read the following chapters **before** the lecture* 
+Not that *we expect that you read the following chapters **before** the lecture*
 in at least one of the books.
 
 | Date      | Topic | _Automate the Boring Stuff_ | _Python Crash Course_ | _Problem Solving [...] using Python_
@@ -60,11 +60,11 @@ in at least one of the books.
 
 ### Assignments
 Please note that the assignments are **not** mandatory.
-However, working on them will drastically improve your programming skills and your chances of passing 
-the test. 
+However, working on them will drastically improve your programming skills and your chances of passing
+the test.
 The TAs will provide you with feedback on your hand ins, so exploit the opportunity to understand what you did well and what you need to work on.
 
-Assignments are detailed in each session (see the seminar material link above), under the `homework/` 
+Assignments are detailed in each session (see the seminar material link above), under the `homework/`
 folder.
 Hand-in should be done on LearnIT.
 
@@ -81,7 +81,7 @@ Hand-in should be done on LearnIT.
 | 21/7 23:59 | 9: Icecream simulation |
 
 ## Lecture material
-Lecture notes and materials will be published after each session here: 
+Lecture notes and materials will be published after each session here:
 [https://github.com/itu-qsp/2019-summer](https://github.com/itu-qsp/2019-summer)
 
 Video screencasts of the lectures will be available after each session here:
@@ -94,9 +94,9 @@ Material and screencasts from previous seminars are available for:
 ## Supplementary material
 
 We will try to add helpful tools, websites, and videos.
-Codecademy uses Python2 but the main difference you will notice is that `print` works differently. Skip the "Pro" part. And Codecademy is not in the same order as the QSP sessions so take that into account.  
-[SoloLearn](https://www.sololearn.com/) is a lovely learning tool. It's less verbose than Codecademy but it has an app! So you can practise while on public transport etc. [Apple iOS app here](https://itunes.apple.com/us/app/id1210079064) and [Android app here](https://play.google.com/store/apps/details?id=com.sololearn).  
-[Socratica playlist](https://www.youtube.com/playlist?list=PLCxv820i6xmK5BRmjt26bMUnWaxsAE27C) 2 hour total running time playlist that covers strings, numbers, doc strings, booleans, conditionals, functions, sets, lists, dictionaries, tuples, logging, the random module, classes and objects, sorting, text files, unit tests, and exceptions. It mostly uses the command line but in a very simple way. It is a bit ridiculous and I hope you'll love it. 
+Codecademy uses Python2 but the main difference you will notice is that `print` works differently. Skip the "Pro" part. And Codecademy is not in the same order as the QSP sessions so take that into account.
+[SoloLearn](https://www.sololearn.com/) is a lovely learning tool. It's less verbose than Codecademy but it has an app! So you can practise while on public transport etc. [Apple iOS app here](https://itunes.apple.com/us/app/id1210079064) and [Android app here](https://play.google.com/store/apps/details?id=com.sololearn).
+[Socratica playlist](https://www.youtube.com/playlist?list=PLCxv820i6xmK5BRmjt26bMUnWaxsAE27C) 2 hour total running time playlist that covers strings, numbers, doc strings, booleans, conditionals, functions, sets, lists, dictionaries, tuples, logging, the random module, classes and objects, sorting, text files, unit tests, and exceptions. It mostly uses the command line but in a very simple way. It is a bit ridiculous and I hope you'll love it.
 
 | Topic | _Codecademy_ | _Websites_ | _Videos_
 | ------------- | ----- | ------| ---- |
@@ -142,6 +142,6 @@ Teachers:
 
 
 
-<!-- <h2>Useful links - Extra recapping from TAs<br></h2><div><ul><li><a href="https://learnit.itu.dk/mod/forum/discuss.php?d=15953">Repetition from Viktor</a></li><li><a href="https://learnit.itu.dk/mod/forum/discuss.php?d=15949">Loops video from Morten</a></li><li><a href="https://learnit.itu.dk/mod/forum/view.php?id=100059">Peer learning exercises</a></li><li><a href="https://github.itu.dk/pages/qsp/qualification-seminar-2018/" style="font-size: 1rem; background-color: rgb(255, 255, 255);">Topics and literature for upcoming and previous sessions</a><br></li><li><ul><li>Scroll down a bit. 
+<!-- <h2>Useful links - Extra recapping from TAs<br></h2><div><ul><li><a href="https://learnit.itu.dk/mod/forum/discuss.php?d=15953">Repetition from Viktor</a></li><li><a href="https://learnit.itu.dk/mod/forum/discuss.php?d=15949">Loops video from Morten</a></li><li><a href="https://learnit.itu.dk/mod/forum/view.php?id=100059">Peer learning exercises</a></li><li><a href="https://github.itu.dk/pages/qsp/qualification-seminar-2018/" style="font-size: 1rem; background-color: rgb(255, 255, 255);">Topics and literature for upcoming and previous sessions</a><br></li><li><ul><li>Scroll down a bit.
 
 Remember that either Automate The Boring Stuff <b>OR</b> Crash Course is fine where both are mentioned.</li></ul></li><li><a href="https://github.com/itu-summer/qualification-seminar-materials-2018">Github materials</a></li><li><a href="https://notebooks.azure.com/">Azure Notebooks</a></li><li></li><ul><li>Log in, click libraries in top left, either use the libraries that you have imported or import new libraries by clicking "New Library" and switching to the "From GitHub" tab in the pop up, paste the link to the GitHub repository you want to clone.</li></ul><li>Online tutorials&nbsp;</li><li><ul><li><a href="https://www.codecademy.com/learn/learn-python">Codecademy Python Intro (only the free stuff)</a></li><li><a href="https://www.codecademy.com/learn/learn-the-command-line">Codecademy Command Line Intro (only the free stuff)</a></li><li><a href="https://www.datacamp.com/courses/intro-to-python-for-data-science">DataCamp (skip NumPy)</a>&nbsp;and&nbsp;<a href="https://www.datacamp.com/courses/python-data-science-toolbox-part-1">the free bit about defining functions here</a></li><li><a href="https://www.sololearn.com/Course/Python/">If you want to recap on the phone SoloLearn has a very nice app</a></li></ul></li></ul></div> -->
