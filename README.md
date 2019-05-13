@@ -1,3 +1,5 @@
+![](logo.png)
+
 # Qualification seminar content
 
 This page contains the seminar schedule, material, assignments, test
