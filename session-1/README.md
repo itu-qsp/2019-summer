@@ -3,8 +3,8 @@
 
 Download the following file for your operating system:
 
-  * For **Windows** click here: ./hej_win.exe
-  * For **MacOS** click here: ./hej_macos
-  * For **Linux** click here: ./hej_linux
+  * For **Windows** click here: [hej_win.exe](hej_win.exe)
+  * For **MacOS** click here: [hej_macos](hej_macos)
+  * For **Linux** click here: [hej_linux](hej_linux)
 
 
