@@ -3,7 +3,7 @@
 # Qualification seminar content
 
 This page contains the seminar schedule, material, assignments, test
-information and learning outcomes for the programming qualification seminar (QSP), summer 2019.
+information and learning outcomes for the programming qualification seminar (QSP), summer 2019 ([see LearnIT](https://learnit.itu.dk/course/view.php?id=3019134)).
 
 ## Literature
 
