@@ -3,18 +3,9 @@
 # Qualification seminar content
 
 This page contains the seminar schedule, material, assignments, test
-information and learning outcomes for the programming qualification seminar (QSP), summer 2019.
+information and learning outcomes for the programming qualification seminar (QSP), summer 2019 ([see LearnIT](https://learnit.itu.dk/course/view.php?id=3019134)).
 
-## Literature
-
-The seminar uses two books, both of which are available in print form at a modest cost. You should before the seminar starts get at least one of the two seminar books, either in electronic form or in print.
-
-  * Al Sweigart: _Automate the Boring Stuff with Python_ [https://www.nostarch.com/automatestuff](https://www.nostarch.com/automatestuff)
-  * Eric Matthes: _Python Crash Course. A Hands-On, Project-Based Introduction to Programming_. [https://nostarch.com/pythoncrashcourse](https://nostarch.com/pythoncrashcourse)
-
-The main book _"Automate the Boring Stuff with Python"_ can be accessed for free online, see [http://automatetheboringstuff.com](http://automatetheboringstuff.com).
-
-For three of the later chapters we will use the book _"Problem Solving with Algorithms and Data Structures using Python"_, which is freely available online at [http://interactivepython.org/runestone/static/pythonds/index.html](http://interactivepython.org/runestone/static/pythonds/index.html).
+**If this is your first visit, please checkout the [session 0](session-0/), which gives you an overview of the course**.
 
 ## Schedule
 
@@ -41,22 +32,23 @@ The three *project* sessions are meant for you to develop your own modern code
 project in Python, but also to familiarise yourself with Python and train for
 the coming test.
 
-### Reading plan
+### Suggested reading plan
 The following table maps the lectures to book contents.
-Not that *we expect that you read the following chapters **before** the lecture*
-in at least one of the books.
+*Note that we **do not** expect you to read all the chapters* (read more in [session 0](session-0/))
+This is meant to be a reading guide for those who enjoy learning through reading.
 
 | Date      | Topic | _Automate the Boring Stuff_ | _Python Crash Course_ | _Problem Solving [...] using Python_
 |---------- | ------------- | ----- | ------| ---- |
-| 1/7/2019  | Introduction | Chapter 1 and 2 | Chapter 1, 2 and 5 | - |
-| 3/7/2019 | Learning Python | Chapter 2 and 4 | Chapter 3, 4 and 7 | - |
+| 1/7/2019  | Introduction | - | - | - |
+| 3/7/2019 | Using Python | Chapter 1 and 2 | Chapter 1, 2 and 5 | - |
+<!--
 | 5/7/2019 | Using Python | Chapter 10 | Chapter 10 and 11 | - |
 | 8/7/2019 | Solving actual problems | Chapter 3 | Chapter 7 and 8 | - |
 | 10/7/2019 | Working with files and objects | Chapter 9 and 12 | Chapter 9 | - |
 | 12/7/2019 | Working with data | Chapter 11 and 15 | - | - |
 | 15/7/2019 & 17/7/2019 | Algorithms and runtimes | - | - | Chapter 2 |
 | 19/7/2019 | Abstract data types | - | - | Chapter 3 & 5 |
-| 22/7/2019 | Python in your future studies | - | - | - |
+| 22/7/2019 | Python in your future studies | - | - | - |-->
 
 ### Assignments
 Please note that the assignments are **not** mandatory.
@@ -71,6 +63,7 @@ Hand-in should be done on LearnIT.
 | Hand in deadline | Topic |
 | ---------- | -----------------|
 | 2/7 23:59 | 1: Understanding code |
+<!--
 | 4/7 23:59 | 2: Working with text |
 | 7/7 23:59 | 3: Functions and lists |
 | 9/7 23:59 | 4: Programs and modules |
@@ -79,7 +72,7 @@ Hand-in should be done on LearnIT.
 | 16/7 23:59 | 7: Searching and sorting |
 | 18/7 23:59 | 8: Runtime analysis |
 | 21/7 23:59 | 9: Abstract data structures |
-| 23/7 23:59 | 10: Icecream simulation |
+| 23/7 23:59 | 10: Icecream simulation |-->
 
 ## Lecture material
 Lecture notes and materials will be published after each session here:
@@ -141,6 +134,11 @@ Teachers:
 * Helge Pfeiffer `<ropf@itu.dk>`
 * Jens Egholm `<jegp@itu.dk>`
 
+TAs:
+* Morten Keller Grøftehauge `<morg@itu.dk>`
+* Anna Reisz `<reis@itu.dk>`
+* Jana Schmurr `<jansc@itu.dk>`
+* Viktor Torp Thomsen `<vikt@itu.dk>`
 
 
 <!-- <h2>Useful links - Extra recapping from TAs<br></h2><div><ul><li><a href="https://learnit.itu.dk/mod/forum/discuss.php?d=15953">Repetition from Viktor</a></li><li><a href="https://learnit.itu.dk/mod/forum/discuss.php?d=15949">Loops video from Morten</a></li><li><a href="https://learnit.itu.dk/mod/forum/view.php?id=100059">Peer learning exercises</a></li><li><a href="https://github.itu.dk/pages/qsp/qualification-seminar-2018/" style="font-size: 1rem; background-color: rgb(255, 255, 255);">Topics and literature for upcoming and previous sessions</a><br></li><li><ul><li>Scroll down a bit.
