@@ -62,8 +62,8 @@ Hand-in should be done on LearnIT.
 
 | Hand in deadline | Topic |
 | ---------- | -----------------|
-| 2/7 23:59 | 1: Understanding code |
 <!--
+| 2/7 23:59 | 1: Understanding code |
 | 4/7 23:59 | 2: Working with text |
 | 7/7 23:59 | 3: Functions and lists |
 | 9/7 23:59 | 4: Programs and modules |
