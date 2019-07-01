@@ -23,8 +23,8 @@ Follow the respective guide for your operating system below:
 
   - What have you done?
   - What is the meaning of `cd`?
-  - What is `hej_linux`?
-  - What does your computer do when you type `hej_linux` into the terminal and press `Enter`? Can you compare that to some action that you usually perform on your computer?
+  - What is `hej_win.exe` or `hej_macos`, or `hej_linux`?
+  - What does your computer do when you type `hej_win.exe` or `hej_macos`, or `hej_linux` respectively into the terminal and press `Enter`? Can you compare that to some action that you usually perform on your computer?
   - What is the stuff on each line that precedes your typing?
 
 
