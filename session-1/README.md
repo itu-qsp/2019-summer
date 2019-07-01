@@ -2,7 +2,6 @@
 
 [Download this!](https://github.com/itu-qsp/2019-summer/raw/master/session-1/hej.zip)
 
-<!--
 ## Guides for Three Operating Systems
 
 The purpose of this guide is that you get to know your computer from a side that you likely did not know so far. You will control your computer via the
@@ -183,5 +182,3 @@ followed by a press on the `Enter` key.
 
 Interact with the program as is asks you to do.
 What do you see now?
-
--->
