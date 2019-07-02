@@ -15,16 +15,16 @@ The first Monday (1/7) tea, coffee, and croissants will be served from 8:30 to 9
 
 | Date      | Lecture       | Place | Workshop      | Place | Topic 
 |---------- | ------------- | ----- | ------------- | ----- | -------------------------- |
-| 1/7/2019  | 09:00 - 12:00 | Aud 1 | 12:30 - 15:00 | 2A14-16 | 1: Meet your (other) computer! |
-| 3/7/2019 | 9:00 - 12:00 | Aud 1  | 12:30 - 15:00 | 2A14-16 | 2: Learning Python |
-| 5/7/2019 | 9:00 - 12:00 | Aud 1  | 12:30 - 15:00 | 2A14-16 | 3: Using Python |
-| 8/7/2019 | 9:00 - 12:00 | Aud 1  | 12:30 - 15:00 | 2A14-16 | 4: Solving actual problems |
-| 10/7/2019 | 9:00 - 12:00 | Aud 1  | 12:30 - 15:00 | 2A14-16 | 5: Python building blocks |
-| 12/7/2019 | 9:00 - 12:00 | Aud 1  | 12:30 - 15:00 | 2A14-16 | 6: Working with files and objects |
-| 15/7/2019 | 9:00 - 12:00 | Aud 1 | 12:30 - 15:00 | 2A14-16 | 7: Working with data |
-| 17/7/2019 | 9:00 - 12:00 | Aud 1 | 12:30 - 15:00 | 2A14-16 | 8: Algorithms and runtimes |
-| 19/7/2019 | 9:00 - 12:00 | Aud 1 | 12:30 - 15:00 | 2A14-16 | 9: Abstract data types |
-| 22/7/2019 | 9:00 - 12:00 | Aud 1 | 12:30 - 15:00 | 2A14-16 | 10: Python in your future studies |
+| 1/7/2019  | 09:00 - 12:30 | Aud 1 | 13:00 - 15:00 | 2A14-16 | 1: Meet your (other) computer! |
+| 3/7/2019 | 9:00 - 12:30 | Aud 1  | 13:00 - 15:00 | 2A14-16 | 2: Learning Python |
+| 5/7/2019 | 9:00 - 12:30 | Aud 1  | 13:00 - 15:00 | 2A14-16 | 3: Using Python |
+| 8/7/2019 | 9:00 - 12:30 | Aud 1  | 13:00 - 15:00 | 2A14-16 | 4: Solving actual problems |
+| 10/7/2019 | 9:00 - 12:30 | Aud 1  | 13:00 - 15:00 | 2A14-16 | 5: Python building blocks |
+| 12/7/2019 | 9:00 - 12:30 | Aud 1  | 13:00 - 15:00 | 2A14-16 | 6: Working with files and objects |
+| 15/7/2019 | 9:00 - 12:30 | Aud 1 | 13:00 - 15:00 | 2A14-16 | 7: Working with data |
+| 17/7/2019 | 9:00 - 12:30 | Aud 1 | 13:00 - 15:00 | 2A14-16 | 8: Algorithms and runtimes |
+| 19/7/2019 | 9:00 - 12:30 | Aud 1 | 13:00 - 15:00 | 2A14-16 | 9: Abstract data types |
+| 22/7/2019 | 9:00 - 12:30 | Aud 1 | 13:00 - 15:00 | 2A14-16 | 10: Python in your future studies |
 | 24/7/2019 | - | - | 9:00 - 16:00 | 2A14-16 | 11: Project 1/2 |
 | 26/7/2019 | - | - | 9:00 - 16:00 | 2A14-16 | 12: Project 2/2 |
 
