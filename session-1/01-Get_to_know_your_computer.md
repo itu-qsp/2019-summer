@@ -1,3 +1,4 @@
+<!--
 ---
 jupyter:
   jupytext:
@@ -11,6 +12,7 @@ jupyter:
     language: python
     name: python3
 ---
+-->
 
 <!-- #region {"slideshow": {"slide_type": "slide"}} -->
 # Welcome!

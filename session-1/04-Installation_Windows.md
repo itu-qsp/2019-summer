@@ -1,3 +1,4 @@
+<!--
 ---
 jupyter:
   jupytext:
@@ -11,13 +12,14 @@ jupyter:
     language: python
     name: python3
 ---
+-->
 
 # Installation Guide for Windows
 
 This guide explains how to install all the tools needed for the seminar.
 
 You will install:
-  
+
   * The Python interpreter (the "programming language") via a distribution called _Anaconda_
   * A code editor
 
@@ -26,7 +28,7 @@ To make this easy for you we will install a number of tools and some of them dep
 <!-- #region -->
 ## 1 - Installing Anaconda from USB key or Website.
 
-If you are in class and have access to one of the distributed USB keys, then copy the folder named `MacOS` to your computer. Subsequently, pass the USB key on to one of your fellow students or an instructor **before** proceeding.  
+If you are in class and have access to one of the distributed USB keys, then copy the folder named `MacOS` to your computer. Subsequently, pass the USB key on to one of your fellow students or an instructor **before** proceeding.
 
 If you are performing the installation at home instead of at ITU navigate to https://www.anaconda.com/distribution/#windows and download Anaconda with Python 3.7 by clicking the big green `Download` button. (The direct download link is: https://repo.anaconda.com/archive/Anaconda3-2019.03-Windows-x86_64.exe).
 
@@ -41,7 +43,7 @@ For detailed installation instructions, navigate to http://docs.anaconda.com/ana
 Do **not** install PyCharm we will not need it in this seminar and you can install it later in case you require it for your studies/work
 
 
-### Test Your Python Installation.  
+### Test Your Python Installation.
 
 **OBS** From now on, on Windows whenever we talk about the command prompt or the terminal we mean the program that is called `Anaconda Prompt`. You start it by clicking the magnifying glass in the bottom left and start typing `Anaconda Prompt`.
 
@@ -49,7 +51,7 @@ Do **not** install PyCharm we will not need it in this seminar and you can insta
 
 In that command prompt run the following:
 
-```bash 
+```bash
 python --version
 ```
 

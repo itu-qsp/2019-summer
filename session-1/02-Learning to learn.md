@@ -1,3 +1,4 @@
+<!--
 ---
 jupyter:
   jupytext:
@@ -11,6 +12,7 @@ jupyter:
     language: python
     name: python3
 ---
+-->
 
 <!-- #region {"slideshow": {"slide_type": "slide"}} -->
 # Learning to learn
@@ -170,8 +172,8 @@ jupyter:
 <!-- #endregion -->
 
 <!-- #region {"slideshow": {"slide_type": "subslide"}} -->
-You may have seen Bloom's taxonomy before.  
-The important point is that lower levels are prerequisite for higher levels but higher levels powerfully reinforce lower levels.  
+You may have seen Bloom's taxonomy before.
+The important point is that lower levels are prerequisite for higher levels but higher levels powerfully reinforce lower levels.
 
 <img src="images/animated.gif" width="80%"/>
 <!-- #endregion -->
@@ -209,8 +211,8 @@ A [study on metacognition](https://phys.org/news/2017-10-metacognition-boosts-ge
 
   > "The students who are successful will ask themselves—what is this question asking me to do? How does that relate
   > to what we're doing in class? Why are they giving me this question? If there's an equation, why does this equation
-  > work? That's the metacognitive part. 
-  > If they will kick that in, they will see their grades go straight through the roof." 
+  > work? That's the metacognitive part.
+  > If they will kick that in, they will see their grades go straight through the roof."
   >
   > Charles Atwood
 <!-- #endregion -->
@@ -243,7 +245,7 @@ A [study on metacognition](https://phys.org/news/2017-10-metacognition-boosts-ge
 
 <!-- #region {"slideshow": {"slide_type": "fragment"}} -->
 * Think about how you think and learn
-  * Is it smart to attend the lectures but never work on it by yourself? 
+  * Is it smart to attend the lectures but never work on it by yourself?
   * Take notes!
   * (Hint: we won't be there to help you at the exam)
 <!-- #endregion -->

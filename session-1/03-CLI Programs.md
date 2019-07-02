@@ -1,3 +1,4 @@
+<!--
 ---
 jupyter:
   jupytext:
@@ -11,6 +12,7 @@ jupyter:
     language: python
     name: python3
 ---
+-->
 
 <!-- #region {"slideshow": {"slide_type": "slide"}} -->
 # No Programming Today!
@@ -111,14 +113,14 @@ The command-line (or terminal) is a textual user interface to your computer's op
 Try out these commands in your command line. After you wrote them, press the `Return` key to execute them:
 
 ### MacOS/Linux
-  
+
   * `date`
   * `clear`
   * `echo "Hello World"`
   * MacOS: `hej_macos`
   * Linux: `hej_linux`
-  
-  
+
+
 ### Windows
 
   * `date /t`
@@ -553,7 +555,7 @@ That is, `summer19/lecture_notes/session1.txt` and `./summer19/lecture_notes/ses
 <!-- #endregion -->
 
 <!-- #region {"slideshow": {"slide_type": "subslide"}} -->
-## Path Separators 
+## Path Separators
 
 As you can see Windows and MacOS/Linux paths use a different character for separation. On Windows it is the backslash `\` and on MacOS/Linux it is the slash `/`. We will come back to that in later sessions.
 
@@ -575,7 +577,7 @@ As you can see Windows and MacOS/Linux paths use a different character for separ
 <!-- #endregion -->
 
 <!-- #region {"slideshow": {"slide_type": "subslide"}} -->
-## Modifying the Behavior of Programs 
+## Modifying the Behavior of Programs
 
 
 You cannot only parametrize programs with data. You can also modify the behavior of programs on the CLI by passing flags/switches.
@@ -655,23 +657,23 @@ SYNOPSIS
 We will:
 
   * copy,
-  * move, 
-  * rename, and 
+  * move,
+  * rename, and
   * delete
 
 files and directories.
 <!-- #endregion -->
 
 <!-- #region {"slideshow": {"slide_type": "fragment"}} -->
-To work on the same directories and files 
+To work on the same directories and files
 
   * Download and uncompress the ZIP file `filesystem_exercise.zip` from https://github.com/itu-qsp/2019-summer/raw/master/session-1/filesystem_exercise.zip (shortlink: https://tinyurl.com/yygbqln7)
   * Navigate to the directory to where you uncompressed the file
-  
+
     ```
     cd <path_to_uncompressed>/data
     ```
-    
+
 <!-- #endregion -->
 
 <!-- #region {"slideshow": {"slide_type": "subslide"}} -->
@@ -791,8 +793,8 @@ Wildcards to the rescue. Wildcards are special _joker_ characters. For example a
 
 ```
 C:\> cd Downloads\filesystem_exercise\data\images\snoopy
-C:\Users\vagrant\Downloads\filesystem_exercise\data\images\snoopy> dir image_003*.jpg 
-``` 
+C:\Users\vagrant\Downloads\filesystem_exercise\data\images\snoopy> dir image_003*.jpg
+```
 
 #### MacOS/Linux
 
@@ -847,7 +849,7 @@ Amiga OS 1.3 from 1988
 Find more examples in the following resources:
 
 #### Windows
-  
+
   * https://www.bleepingcomputer.com/tutorials/windows-command-prompt-introduction/
   * http://abacus.gene.ucl.ac.uk/software/CommandLine.Windows.pdf
 

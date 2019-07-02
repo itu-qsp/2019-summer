@@ -1,3 +1,4 @@
+<!--
 ---
 jupyter:
   jupytext:
@@ -11,13 +12,14 @@ jupyter:
     language: python
     name: python3
 ---
+-->
 
 # Installation Guide for Linux
 
 This guide explains how to install all the tools needed for the seminar.
 
 You will install:
-  
+
   * The Python interpreter (the "programming language") via a distribution called _Anaconda_
   * A code editor
 
@@ -26,7 +28,7 @@ To make this easy for you we will install a number of tools and some of them dep
 <!-- #region -->
 ## 1 - Installing Anaconda from USB key or Website.
 
-If you are in class and have access to one of the distributed USB keys, then copy the folder named `Linux` to your computer. Subsequently, pass the USB key on to one of your fellow students or an instructor **before** proceeding.  
+If you are in class and have access to one of the distributed USB keys, then copy the folder named `Linux` to your computer. Subsequently, pass the USB key on to one of your fellow students or an instructor **before** proceeding.
 
 If you are performing the installation at home instead of at ITU navigate to https://www.anaconda.com/distribution/#linux and download Anaconda with Python 3.7 by clicking the big green `Download` button. (The direct download link is: https://repo.anaconda.com/archive/Anaconda3-2019.03-Linux-x86_64.sh).
 
@@ -39,23 +41,23 @@ $ bash Anaconda3-2019.03-Linux-x86_64.sh
 
 **OBS**: you can stop reading the presented license by hitting `q` and `yes` subsequently.
 
-For detailed installation instructions, navigate to http://docs.anaconda.com/anaconda/install/linux/ and follow the instructions from **step 3**.  
+For detailed installation instructions, navigate to http://docs.anaconda.com/anaconda/install/linux/ and follow the instructions from **step 3**.
 
 Do **not** install PyCharm, we will not need it in this seminar and you can install it later in case you require it for your studies/work.
 
-### Test Your Python Installation.  
+### Test Your Python Installation.
 
-Open a terminal: 
+Open a terminal:
 
   * either open the search bar, type `terminal`, and press `Enter`
-  * or click the icon if you have some kind of application dock 
-  * or use the keyboard shortcut to launch a terminal 
+  * or click the icon if you have some kind of application dock
+  * or use the keyboard shortcut to launch a terminal
 
 ![terminal.png](images/terminal.png)
 
 in the terminal run the following:
 
-```bash 
+```bash
 $ python --version
 ```
 
