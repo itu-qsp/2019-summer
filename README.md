@@ -13,7 +13,7 @@ The first Monday (1/7) tea, coffee, and croissants will be served from 8:30 to 9
 
 **Note**: While the times are locked, the topics are subject to change.
 
-| Date      | Lecture       | Place | Workshop      | Place | Topic 
+| Date      | Lecture       | Place | Workshop      | Place | Topic
 |---------- | ------------- | ----- | ------------- | ----- | -------------------------- |
 | 1/7/2019  | 09:00 - 12:30 | Aud 1 | 13:00 - 15:00 | 2A14-16 | 1: Meet your (other) computer! |
 | 3/7/2019 | 9:00 - 12:30 | Aud 1  | 13:00 - 15:00 | 2A14-16 | 2: Learning Python |
@@ -29,7 +29,7 @@ The first Monday (1/7) tea, coffee, and croissants will be served from 8:30 to 9
 | 26/7/2019 | - | - | 9:00 - 16:00 | 2A14-16 | 12: Project 2/2 |
 
 The three *project* sessions are meant for you to develop your own modern code
-project in Python, but also to familiarise yourself with Python and train for
+project in Python, but also to familiarize yourself with Python and train for
 the coming test.
 
 ### Suggested reading plan
@@ -41,8 +41,8 @@ This is meant to be a reading guide for those who enjoy learning through reading
 |---------- | ------------- | ----- | ------| ---- |
 | 1/7/2019  | Introduction | - | - | - |
 | 3/7/2019 | Using Python | Chapter 1 and 2 | Chapter 1, 2 and 5 | - |
+| 5/7/2019 | Using Python | Chapter 4 and 2 | Chapter 3, 4, 5, and 7 | - |
 <!--
-| 5/7/2019 | Using Python | Chapter 10 | Chapter 10 and 11 | - |
 | 8/7/2019 | Solving actual problems | Chapter 3 | Chapter 7 and 8 | - |
 | 10/7/2019 | Working with files and objects | Chapter 9 and 12 | Chapter 9 | - |
 | 12/7/2019 | Working with data | Chapter 11 and 15 | - | - |
