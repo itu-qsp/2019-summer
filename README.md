@@ -63,8 +63,8 @@ Hand-in should be done on LearnIT.
 | Hand in deadline | Topic |
 | ---------- | -----------------|
 | 4/7 23:59 | 2: Working with code |
+| 7/7 23:59 | 3: Working with text |
 <!--
-| 7/7 23:59 | 3: Functions and lists |
 | 9/7 23:59 | 4: Programs and modules |
 | 11/7 23:59 | 5: Files and objects |
 | 14/7 23:59 | 6: Testing and data analysis |
