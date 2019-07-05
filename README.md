@@ -40,10 +40,10 @@ This is meant to be a reading guide for those who enjoy learning through reading
 | Date      | Topic | _Automate the Boring Stuff_ | _Python Crash Course_ | _Problem Solving [...] using Python_
 |---------- | ------------- | ----- | ------| ---- |
 | 1/7/2019  | Introduction | - | - | - |
-| 3/7/2019 | Using Python | Chapter 1 and 2 | Chapter 1, 2 and 5 | - |
+| 3/7/2019 | Learning Python | Chapter 1 and 2 | Chapter 1, 2 and 5 | - |
 | 5/7/2019 | Using Python | Chapter 4 and 2 | Chapter 3, 4, 5, and 7 | - |
+| 8/7/2019 | Solving actual problems | Chapter 3, 10 | Chapter 7 and 10 | - |
 <!--
-| 8/7/2019 | Solving actual problems | Chapter 3 | Chapter 7 and 8 | - |
 | 10/7/2019 | Working with files and objects | Chapter 9 and 12 | Chapter 9 | - |
 | 12/7/2019 | Working with data | Chapter 11 and 15 | - | - |
 | 15/7/2019 & 17/7/2019 | Algorithms and runtimes | - | - | Chapter 2 |
