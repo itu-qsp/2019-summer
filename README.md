@@ -43,8 +43,8 @@ This is meant to be a reading guide for those who enjoy learning through reading
 | 3/7/2019 | Learning Python | Chapter 1 and 2 | Chapter 1, 2 and 5 | - |
 | 5/7/2019 | Using Python | Chapter 4 and 2 | Chapter 3, 4, 5, and 7 | - |
 | 8/7/2019 | Solving actual problems | Chapter 3, 10 | Chapter 7 and 10 | - |
+| 10/7/2019 | Functions and modules | Chapter 3 and 5 | Chapter 6 and 8 | - |
 <!--
-| 10/7/2019 | Working with files and objects | Chapter 9 and 12 | Chapter 9 | - |
 | 12/7/2019 | Working with data | Chapter 11 and 15 | - | - |
 | 15/7/2019 & 17/7/2019 | Algorithms and runtimes | - | - | Chapter 2 |
 | 19/7/2019 | Abstract data types | - | - | Chapter 3 & 5 |
@@ -64,8 +64,8 @@ Hand-in should be done on LearnIT.
 | ---------- | -----------------|
 | 4/7 23:59 | 2: Working with code |
 | 7/7 23:59 | 3: Working with text |
+| 9/7 23:59 | 4: Loops and breaking turtles |
 <!--
-| 9/7 23:59 | 4: Programs and modules |
 | 11/7 23:59 | 5: Files and objects |
 | 14/7 23:59 | 6: Testing and data analysis |
 | 16/7 23:59 | 7: Searching and sorting |
