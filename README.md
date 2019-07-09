@@ -42,13 +42,13 @@ This is meant to be a reading guide for those who enjoy learning through reading
 | 1/7/2019  | Introduction | - | - | - |
 | 3/7/2019 | Learning Python | Chapter 1 and 2 | Chapter 1, 2 and 5 | - |
 | 5/7/2019 | Using Python | Chapter 4 and 2 | Chapter 3, 4, 5, and 7 | - |
-| 8/7/2019 | Solving actual problems | Chapter 3, 10 | Chapter 7 and 10 | - |
-| 10/7/2019 | Functions and modules | Chapter 3 and 5 | Chapter 6 and 8 | - |
-<!--
-| 12/7/2019 | Working with data | Chapter 11 and 15 | - | - |
-| 15/7/2019 & 17/7/2019 | Algorithms and runtimes | - | - | Chapter 2 |
-| 19/7/2019 | Abstract data types | - | - | Chapter 3 & 5 |
-| 22/7/2019 | Python in your future studies | - | - | - |-->
+| 8/7/2019 | Solving actual problems  | Chapter 3, 10     | Chapter 7 and 10 | - |
+| 10/7/2019 | Functions and modules   | Chapter 3 and 5   | Chapter 6 and 8 | - |
+| 12/7/2019 | Files and objects       | Chapter 8 (note: no chapters on objects oriented programming) | Chapter 9 and 10 | - |
+| 15/7/2019 | Real-world programs     | Chapter 10 and 12 (note: no chapters on testing) | Chapter 10 and 11 (note: no chapters on the openpyxl module) | - |
+| 17/7/2019 | Algorithms and runtimes | - | - | Chapter 2 |
+| 19/7/2019 | Abstract data types     | - | - | Chapter 3 & 5 |
+| 22/7/2019 | Python in your future studies (more about this later) | - | - | - |
 
 ### Assignments
 Please note that the assignments are **not** mandatory.
