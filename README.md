@@ -1,4 +1,4 @@
-![](images/logo.png)
+![](logo.png)
 
 # Qualification seminar content
 
