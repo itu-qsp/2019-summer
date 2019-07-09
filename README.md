@@ -94,9 +94,7 @@ Codecademy uses Python2 but the main difference you will notice is that `print` 
 | Topic | _Codecademy_ | _Websites_ | _Videos_
 | ------------- | ----- | ------| ---- |
 | Introduction | [Session 1, 2](https://www.codecademy.com/learn/learn-python) | [Python Tutorial](https://www.learnpython.org) / [Shortcuts in Mu (especially CTRL K)](https://codewith.mu/en/tutorials/1.0/shortcuts) | [Motivation for why to learn code](https://www.youtube.com/watch?v=nmZR_JsLCfg)|
-
 | Learning Python | [Session 3](https://www.codecademy.com/learn/learn-python) |[How to write Pythonic](https://docs.python-guide.org/writing/style/) / [Debugging in Mu](https://codewith.mu/en/tutorials/1.0/debugger) | [MIT- basic features of programmatic logic)](https://www.youtube.com/watch?v=0jljZRnHwOI&index=5&list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA)|
-
 | Using Python | [Session 4, 5, 8](https://www.codecademy.com/learn/learn-python) | [Introduction to the Terminal (Mac)](https://www.imore.com/how-use-terminal-mac-when-you-have-no-idea-where-start) / [Codecademy course about the CLI](https://www.codecademy.com/learn/learn-the-command-line) | [Tabs vs. spaces (fun!)](https://dk.hbonordic.com/series/silicon-valley/season-3/episode-6/1f10ced-009be07aa9e) /[Sys tutorial](https://www.youtube.com/watch?v=rLG7Tz6db0w) |
 <!--
 | Python building blocks | [Session 7, 11](https://www.codecademy.com/learn/learn-python) | [Great tutorial for practising functions](https://www.datacamp.com/courses/python-data-science-toolbox-part-1) | [Functions in simple English](https://www.youtube.com/watch?v=Xbg7Ei4UcM8) |
