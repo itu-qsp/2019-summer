@@ -1,0 +1,9 @@
+% 8-units.txt
+l
+pound(s)
+cup(s)
+kg
+g
+tablespoon(s)
+teaspoon(s)
+pinch(es)

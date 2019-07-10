@@ -1,0 +1,10 @@
+1 l = 10 dl
+1 l = 100 cl
+1 l = 1000 ml 
+1 tablespoon = 3 teaspoons
+1 teaspoon = 16 pinches
+1 cup = 16 tablespoons
+1 cup = 250 ml
+1 kg = 2 pounds
+1 kg = 1000 g
+ 
