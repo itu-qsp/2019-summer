@@ -3,8 +3,6 @@ Test Introduction to Programming
 
 The answer to each of the following questions goes into a separate file.
 The name of the file must be the name of the question.
-The directory sol-xxx, where xxx is your student ID,  contains empty files for this purpose.
-In these files, lines beginning with # are considered comments and will be ignored for grading.
 
 1.txt
 -----
