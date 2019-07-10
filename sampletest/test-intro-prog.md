@@ -4,6 +4,8 @@ Test Introduction to Programming
 The answer to each of the following questions goes into a separate file.
 The name of the file must be the name of the question.
 
+Some of the questions require external files, which are located in the `sampletest` folder and subfolders.
+
 1.txt
 -----
 
