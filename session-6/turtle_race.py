@@ -8,7 +8,7 @@ def race(turtles, turns=5):
             angle = choose_angle_to_turn()
             distance = choose_distance_to_walk()
 
-            msg = 'Turtle ' + idx + ' chooses to turn ' + angle + ' degrees and takes ' + distance + ' steps forward.'
+            msg = 'Turtle ' + str(idx) + ' chooses to turn ' + str(angle) + ' degrees and takes ' + str(distance) + ' steps forward.'
             print(msg)
             turtle.right(angle)
             turtle.forward(distance)
