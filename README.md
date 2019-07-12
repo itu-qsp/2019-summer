@@ -106,6 +106,15 @@ Codecademy uses Python2 but the main difference you will notice is that `print` 
 | Project | - | - | - |-->
 
 
+### A Python Cheatsheet
+
+There is a nice two-sided sheet with almost all of the Python that we covered in this seminar:
+https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf
+
+The only syntactical structures that are missing on it is everything concerning object-orientation.
+
+If you do not like this cheatsheet, try to create your own. Likely, you would like to note concepts differently according to your liking.
+
 ## Test
 You **will need to pass the test in order to fully enroll**. But fear not: the goal is
 to get each and everyone one of you through this seminar.
