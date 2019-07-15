@@ -17,41 +17,12 @@ def country_codes_data(filename, column_number):
         A list of country code numbers.
     """
 
-    # TODO: Implement me!
+    # TODO: Implement me in Ex B and again in Ex C
     pass
 
 
 def translate_code_to_text(code):
-    # TODO: Implement me!
-    pass
-
-
-def translate_many_codes_to_text(codes):
-    """Translate many country into human-readable strings with the help of the
-    `stat_codes` module
-
-    :param codes: list
-        A list of numerical country codes.
-    :return: list
-        A list of strings with human readable country codes.
-    """
-
-    # TODO: Implement me!
-    pass
-
-
-def filter_for_not_living_in_cph(codes_1, codes_2):
-    """Removes all elements from codes_1 which do not appear in codes_2.
-
-    :param codes_1: list
-        For example a list of numerical values.
-    :param codes_2: list
-        For example a list of numerical values.
-    :return: list
-        A set of elements, which appear in codes_1 but not in codes_2.
-    """
-
-    # TODO: Implement me!
+    # TODO: Implement me in Ex E
     pass
 
 
@@ -59,17 +30,14 @@ def main():
     cph_person_codes = country_codes_data('befkbhalderstatkode_small.xlsx', 3)
     complete_codes = country_codes_data('country_codes.xlsx', 0)
 
-    print('-----------------')
-    print('Persons from the following countries live in Copenhagen:')
-    print(translate_many_codes_to_text(cph_person_codes))
+    print("Country codes in Copenhagen")
+    print(cph_person_codes, "\n")
+    print("All country codes")
+    print(complete_codes, "\n")
 
-    not_living_in_cph = filter_for_not_living_in_cph(complete_codes,
-                                                     cph_person_codes)
-
-    print('-----------------')
-    print('Persons from the following countries do not live in Copenhagen:')
-    print(translate_many_codes_to_text(not_living_in_cph))
-
+    descriptive_string = translate_code_to_text(5126)
+    print("The country for 5126 is:")
+    print(descriptive_string)
 
 if __name__ == "__main__":
     main()
