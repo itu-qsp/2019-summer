@@ -5,7 +5,10 @@ If you want to see how I implemented these solutions, then you can use the follo
 
 
 Exercise A: https://app.vidgrid.com/view/x0r3RtLuTvqu
+
 Exercise B: https://app.vidgrid.com/view/RXkRIIS4RKxZ
+
 Exercise C: https://app.vidgrid.com/view/MLm4hTxRkwzF
+
 
 If you have any question, please ask us!
