@@ -1,0 +1,4 @@
+Assignment C:
+
+1. The answer is b, linear time. This is because in case of big-O, 
+only the biggest, most dominant factor matters and scalars don't.

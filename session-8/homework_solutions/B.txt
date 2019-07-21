@@ -1,0 +1,10 @@
+Assignment A:
+
+1. The value of that element is 0, since it's at position 0, 
+which is the first item that the if statement checks for equality.
+
+2. If the value of element is outside of this range (it returns None).
+It is because we look at all values without returning in the for loop. 
+We do 10000 comparisons.
+
+3. The answer is b, linear runtime.See above.
