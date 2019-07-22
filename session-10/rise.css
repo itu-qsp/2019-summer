@@ -1,0 +1,42 @@
+/* TODO: maybe we need to port this to main.css?  */
+.reveal img {
+    max-width: 60%;
+}
+
+.CodeMirror {
+    width: 70vw;
+}
+
+.container {
+    width: 99% !important;
+}
+
+.rendered_html {
+  font-size:0.7em;
+}
+.rendered_html table, .rendered_html th, .rendered_html tr, .rendered_html td {
+     font-size: 100%;
+}
+
+.rise-enabled .rendered_html table.dataframe {
+    font-size: 16px;
+}
+.rendered_html code {
+    background: #EFEFEF;
+    border: 1px solid #CCC;
+    padding: 1px 5px;
+    border-radius: 1px;
+}
+.rise-enabled .fa-times-circle:before,
+.rise-enabled .fa-question:before,
+.rise-enabled aside.controls {
+    opacity: 0.1;
+}
+.rise-enabled a,
+.rise-enabled a:active,
+.rise-enabled a:hover,
+.rise-enabled a:visited,
+.rise-enabled :link {
+    text-decoration: none;
+    color: #A68910;
+}
