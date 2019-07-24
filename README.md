@@ -25,8 +25,8 @@ The first Monday (1/7) tea, coffee, and croissants will be served from 8:30 to 9
 | 17/7/2019 | 9:00 - 12:30 | Aud 1 | 13:00 - 15:00 | 2A14-16 | 8: Algorithms and runtimes |
 | 19/7/2019 | 9:00 - 12:30 | Aud 1 | 13:00 - 15:00 | 2A14-16 | 9: Abstract data types |
 | 22/7/2019 | 9:00 - 12:30 | Aud 1 | 13:00 - 15:00 | 2A14-16 | 10: Python in your future studies |
-| 24/7/2019 | - | - | 9:00 - 16:00 | 2A14-16 | 11: Project 1/2 |
-| 26/7/2019 | - | - | 9:00 - 16:00 | 2A14-16 | 12: Project 2/2 |
+| 24/7/2019 | - | - | 9:00 - 16:00 | Analog | 11: Project 1/2 |
+| 26/7/2019 | - | - | 9:00 - 16:00 | Analog | 12: Project 2/2 |
 
 The three *project* sessions are meant for you to develop your own modern code
 project in Python, but also to familiarize yourself with Python and train for
@@ -146,6 +146,29 @@ TAs:
 * Anna Reisz `<reis@itu.dk>`
 * Jana Schmurr `<jansc@itu.dk>`
 * Viktor Torp Thomsen `<vikt@itu.dk>`
+
+
+## How can I download all the lecture notes for the test?
+
+As we said earlier, you cannot access the internet during the test, except LearnIT. From LearnIT you will download the test from LearnIT and upload your solution to it.
+
+Since you cannot access the internet, you better download a copy of the lecture notes to your computer before the test. You do so as described in the following:
+
+  1. Navigate with your browser to https://github.com/itu-qsp/2019-summer
+  ![](getting_notes1.png)
+  2. Click the green button that says `Clone or Download`
+  ![](getting_notes2.png)
+  3. Then click the `Download ZIP` button.
+  ![](getting_notes3.png)
+
+Alternatively, the direct download link is this one: https://github.com/itu-qsp/2019-summer/archive/master.zip
+
+Unzip the downloaded file and find in each session a PDF version and an HTML version of the lecture notes. You can open the PDF files by double clicking them. That will open your PDF reader application with the respective file. You can also double click on any of the HTML file, which will open you browser and displays the contents of that file.
+
+**OBS**: Just because you are watching an HTML file in your browser does not mean that you are _online_. Instead you just watch that local file.
+
+
+
 
 
 <!-- <h2>Useful links - Extra recapping from TAs<br></h2><div><ul><li><a href="https://learnit.itu.dk/mod/forum/discuss.php?d=15953">Repetition from Viktor</a></li><li><a href="https://learnit.itu.dk/mod/forum/discuss.php?d=15949">Loops video from Morten</a></li><li><a href="https://learnit.itu.dk/mod/forum/view.php?id=100059">Peer learning exercises</a></li><li><a href="https://github.itu.dk/pages/qsp/qualification-seminar-2018/" style="font-size: 1rem; background-color: rgb(255, 255, 255);">Topics and literature for upcoming and previous sessions</a><br></li><li><ul><li>Scroll down a bit.
