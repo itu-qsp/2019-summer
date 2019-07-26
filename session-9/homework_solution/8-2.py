@@ -3,7 +3,7 @@ class ColourChanger:
         self.colour_replacement = {'red': 'black', 'green': 'white'}
 
     def retain_caps(self, source, target):
-        if source[0].isupper():
+        if source[0].istitle():
             return target[0].upper() + target[1:]
         else:
             return target
