@@ -90,12 +90,15 @@ We will try to add helpful tools, websites, and videos.
 Codecademy uses Python2 but the main difference you will notice is that `print` works differently. Skip the "Pro" part. And Codecademy is not in the same order as the QSP sessions so take that into account.
 [SoloLearn](https://www.sololearn.com/) is a lovely learning tool. It's less verbose than Codecademy but it has an app! So you can practise while on public transport etc. [Apple iOS app here](https://itunes.apple.com/us/app/id1210079064) and [Android app here](https://play.google.com/store/apps/details?id=com.sololearn).
 [Socratica playlist](https://www.youtube.com/playlist?list=PLCxv820i6xmK5BRmjt26bMUnWaxsAE27C) 2 hour total running time playlist that covers strings, numbers, doc strings, booleans, conditionals, functions, sets, lists, dictionaries, tuples, logging, the random module, classes and objects, sorting, text files, unit tests, and exceptions. It mostly uses the command line but in a very simple way. It is a bit ridiculous and I hope you'll love it.
+[100 Python problems](https://github.com/zhiwehu/Python-programming-exercises/blob/master/100%2B%20Python%20challenging%20programming%20exercises.txt) is a list of 100 problems in Python with solutions. They quickly get pretty hard, but it's a good resource for additional Python problems.
 
 | Topic | _Codecademy_ | _Websites_ | _Videos_
 | ------------- | ----- | ------| ---- |
 | Introduction | [Session 1, 2](https://www.codecademy.com/learn/learn-python) | [Python Tutorial](https://www.learnpython.org) / [Shortcuts in Mu (especially CTRL K)](https://codewith.mu/en/tutorials/1.0/shortcuts) | [Motivation for why to learn code](https://www.youtube.com/watch?v=nmZR_JsLCfg)|
 | Learning Python | [Session 3](https://www.codecademy.com/learn/learn-python) |[How to write Pythonic](https://docs.python-guide.org/writing/style/) / [Debugging in Mu](https://codewith.mu/en/tutorials/1.0/debugger) | [MIT- basic features of programmatic logic)](https://www.youtube.com/watch?v=0jljZRnHwOI&index=5&list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA)|
 | Using Python | [Session 4, 5, 8](https://www.codecademy.com/learn/learn-python) | [Introduction to the Terminal (Mac)](https://www.imore.com/how-use-terminal-mac-when-you-have-no-idea-where-start) / [Codecademy course about the CLI](https://www.codecademy.com/learn/learn-the-command-line) | [Tabs vs. spaces (fun!)](https://dk.hbonordic.com/series/silicon-valley/season-3/episode-6/1f10ced-009be07aa9e) /[Sys tutorial](https://www.youtube.com/watch?v=rLG7Tz6db0w) |
+
+
 <!--
 | Python building blocks | [Session 7, 11](https://www.codecademy.com/learn/learn-python) | [Great tutorial for practising functions](https://www.datacamp.com/courses/python-data-science-toolbox-part-1) | [Functions in simple English](https://www.youtube.com/watch?v=Xbg7Ei4UcM8) |
 | Working with files and objects | [Session 12](https://www.codecademy.com/learn/learn-python) |  |[Functions explained really good](https://www.youtube.com/watch?v=MjbuarJ7SE0&t=1s)|
@@ -119,8 +122,8 @@ If you do not like this cheatsheet, try to create your own. Likely, you would li
 You **will need to pass the test in order to fully enroll**. But fear not: the goal is
 to get each and everyone one of you through this seminar.
 
-The test will take place on the 2nd of August, and a second test will take place on the 16th of August.
-Further information will be announced later.
+The test will take place from 09:00 to 13:00 on the 2nd of August, and a second test will take place on the 16th of August.
+Further information will be announced on LearnIT.
 
 ## Learning outcomes
 Please read this section carefully.
